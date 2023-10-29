@@ -1,10 +1,10 @@
-# hi im pompurin !
+# hi im yeji !
 
 This github page is for me to post all of my recent projects,
 so feel free to use it.
 
-for copyright make sure to put a copyright to https://github.com/pompurinn
+for copyright make sure to put a copyright to https://github.com/yejiwonn
 
-* how to reach me : pompurin#7545 https://t.me/pompuwrin/ 
+* how to reach me / qna inquiries :  https://t.me/yejiewonn/
 
-Feel free to contact me pom@pompur.ai whenever you have some problems !
+Feel free to contact me yeji@wonn.ai whenever you have a problem with my projects and repo.
